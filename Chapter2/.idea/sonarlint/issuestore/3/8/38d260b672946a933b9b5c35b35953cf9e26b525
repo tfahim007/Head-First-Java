@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(¾ßÔ¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬€¬§ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œùĞ†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Èèı›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î©•Çÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(•‘Ù¤ûÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¦Ø‰
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(æò»
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ïèœ²ÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ç£˜Ä
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(–ëÂ­
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(åÍ÷Œùÿÿÿÿ

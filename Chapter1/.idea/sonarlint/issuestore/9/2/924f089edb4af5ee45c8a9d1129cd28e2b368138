@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(œ°™Õùÿÿÿÿ
+A
+java:S1905"&Remove this unnecessary cast to "int".(œ°™Õùÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¬©ž“þÿÿÿÿ
+A
+java:S1905"&Remove this unnecessary cast to "int".(¬©ž“þÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ªÒÃ 
+<
+java:S1905"&Remove this unnecessary cast to "int".(ªÒÃ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
