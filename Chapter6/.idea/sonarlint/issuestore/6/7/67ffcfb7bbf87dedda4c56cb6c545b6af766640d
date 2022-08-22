@@ -1,0 +1,9 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú©ê‰úÿÿÿÿ
+
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(šÆ³¦ûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À»Ø‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
