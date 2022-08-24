@@ -1,0 +1,27 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖþÿÿÿÿ
+a
+java:S1854"?Remove this useless assignment to local variable "stringArray".(Íá¸ªùÿÿÿÿ8å£¡Œ­0
+a
+java:S1854"?Remove this useless assignment to local variable "objectArray".(î¼ô˜þÿÿÿÿ8ì£¡Œ­0
+]
+java:S1854";Remove this useless assignment to local variable "isEmpty".(óÜÔõúÿÿÿÿ8ì£¡Œ­0
+_
+java:S1854"=Remove this useless assignment to local variable "containsA".(¶«Ìœþÿÿÿÿ8ì£¡Œ­0
+Z
+java:S1854"8Remove this useless assignment to local variable "size".(óÁ³Šÿÿÿÿÿ8ì£¡Œ­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§Îá’ûÿÿÿÿ8÷£¡Œ­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§Îá’ûÿÿÿÿ8§í¦Œ­0
+K
+java:S1481")Remove this unused "size" local variable.(óÁ³Šÿÿÿÿÿ8í£¡Œ­0
+P
+java:S1481".Remove this unused "containsA" local variable.(¶«Ìœþÿÿÿÿ8í£¡Œ­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§Îá’ûÿÿÿÿ8Ã”§Œ­0
+N
+java:S1481",Remove this unused "isEmpty" local variable.(óÜÔõúÿÿÿÿ8ò£¡Œ­0
+R
+java:S1481"0Remove this unused "objectArray" local variable.(î¼ô˜þÿÿÿÿ8ó£¡Œ­0
+R
+java:S1481"0Remove this unused "stringArray" local variable.(Íá¸ªùÿÿÿÿ8ó£¡Œ­0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¨ï¼”úÿÿÿÿ8™º§Œ­0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(îõãê8Öë§Œ­0
